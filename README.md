@@ -3,8 +3,8 @@
 
 A very simple cli tool to display package version
 
-# How to install
+## How to install
 `npm i -g @methmal/version`
 
-# How to use
+## How to use
 `version`
