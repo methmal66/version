@@ -1,0 +1,23 @@
+{
+   "name": "@methmal/version",
+   "version": "1.0.0",
+   "description": "A very simple cli tool to display package version",
+   "main": "index.js",
+   "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "bin": {
+      "version": "index.js"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/methmal66/version.git"
+   },
+   "author": "Sanuja Methmal",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/methmal66/version/issues"
+   },
+   "homepage": "https://github.com/methmal66/version#readme"
+}
