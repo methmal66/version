@@ -1,6 +1,6 @@
 {
    "name": "@methmal/version",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "A very simple cli tool to display package version",
    "main": "index.js",
    "scripts": {
